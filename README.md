@@ -1,16 +1,48 @@
-### Hi there 👋
+# [retards](https://discord.com/channels/@me)
 
-<!--
-**CentricGamer834/CentricGamer834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[s](https://)
 
-Here are some ideas to get you started:
+> [I am god](#)
+>
+> > s <br /> s <br />s
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+	table {
+		width: 100%;
+	}
+
+	thead {
+		border: 1px solid brown !important;
+	}
+
+	tbody {
+		border: 1px solid brown !important;
+	}
+
+	th {
+		transition: background 200ms ease;
+		cursor: default;
+	}
+
+	th:hover {
+		background: rgba(0, 0, 0, .2)
+	}
+</style>
+<table>
+	<thead>
+		<th>sss</th>
+		<th>sss</th>
+		<th>sss</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>sss
+			</td>
+			<td>sss
+			</td>
+			<td>sss
+			</td>
+		</tr>
+	</tbody>
+</table>
+> > [label]()
